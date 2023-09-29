@@ -98,7 +98,7 @@ body{
 }
 
 .L1_style {
-    margin-top: 0px;
+    margin-top: 0;
     margin-left: 500px;
     color: #696969;
     font-size: 25px;
@@ -157,3 +157,67 @@ body{
     background-color: #f5f5f5;
     float: left;
 }
+
+.f1_style {
+  margin-top: 50px;
+  text-align: center;
+  color: #5b9a68;
+  font-size: 30px;
+  font-variant: inherit;
+}
+
+.f2_style {
+  width: 600px;
+  margin-top: 30px;
+  margin-left: 370px;
+  text-align: center;
+  color: #aaaaaa;
+  font-size: 18px;
+}
+
+.second_link {
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 545px;
+  height: 80px;
+  width: 250px;
+  border-radius: 3px;
+  border: solid #5b9a68;
+}
+
+.second_link .get_2_btn .slow_fade {
+  color: #4d8c5a;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 10px;
+}
+
+.rights_st {
+  margin-top: 20px;
+  text-align: center;
+  color: #aaaaaa;
+}
+
+.pix_text .rights_st{
+  height: 20px;
+  margin-left: 580px;
+}
+
+.pixfort_st {
+  color: #5b9a68;
+  font-weight: bolder;
+}
+
+.center_btn {
+  margin-left: 580px;
+  margin-right: 630px;
+  margin-top: 8px;
+  margin-bottom: 50px;
+}
+
+.center_btn img {
+  float: right;
+  padding: 2px;
+}
+
