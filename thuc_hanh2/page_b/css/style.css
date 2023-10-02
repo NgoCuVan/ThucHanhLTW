@@ -400,7 +400,7 @@
   transform: translate(-50%,-50%);
 }
 .segment.pix_builder_bg {
-  margin: 10px 0px;
+  margin: 10px 0;
   width: 72px; /* Chiều dài của đoạn thẳng */
   height: 8px; /* Độ rộng của đoạn thẳng */
   background-color: hsl(208.2deg 91.56% 53.53%); /* Màu sắc của đoạn thẳng */
